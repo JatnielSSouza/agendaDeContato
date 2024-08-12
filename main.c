@@ -3,6 +3,8 @@
 #include <conio.h>
 #include <locale.h>
 #include <string.h>
+#include <windows.h>// windows
+#include <unistd.h>// unix (linux ou mac)
 
 typedef struct data DATA;
 
